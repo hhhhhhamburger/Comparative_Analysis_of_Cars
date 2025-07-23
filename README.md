@@ -5,7 +5,7 @@ This project analyzes data from different cars, focusing on features such as tra
 ## Project Structure
 
 ```
-cars/
+cars
   ├── cars comparison.r      # Additional analysis scripts
   ├── data_processing.R      # Data loading and preprocessing functions
   ├── main.R                 # Main entry point, orchestrates the workflow
