@@ -44,4 +44,3 @@ cars
 - **data_processing.R:** Functions for reading and preprocessing data.
 - **plotting.R:** Functions for generating plots and visualizations.
 - **cars comparison.r:** Additional or comparative analysis scripts.
-- 
