@@ -6,7 +6,7 @@ This project analyzes data from different cars, focusing on features such as tra
 
 ```
 cars
-  ├── cars comparison.r      # Additional analysis scripts
+  ├── cars_comparison.r      # Additional analysis scripts
   ├── data_processing.R      # Data loading and preprocessing functions
   ├── main.R                 # Main entry point, orchestrates the workflow
   └── plotting.R             # Visualization and plotting functions
@@ -43,4 +43,4 @@ cars
 - **main.R:** Main script that runs the analysis pipeline.
 - **data_processing.R:** Functions for reading and preprocessing data.
 - **plotting.R:** Functions for generating plots and visualizations.
-- **cars comparison.r:** Additional or comparative analysis scripts.
+- **cars_comparison.r:** Additional or comparative analysis scripts.
